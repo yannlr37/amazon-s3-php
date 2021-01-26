@@ -1,0 +1,12 @@
+{
+    "name": "yannlarosa/s3",
+    "authors": [
+        {
+            "name": "Yann LA ROSA",
+            "email": "yannlarosa@gmail.com"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "^3.172"
+    }
+}
